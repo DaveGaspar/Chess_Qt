@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/bishop_black.svg</file>
+        <file>Images/bishop_white.svg</file>
+        <file>Images/king_black.svg</file>
+        <file>Images/king_white.svg</file>
+        <file>Images/knight_black.svg</file>
+        <file>Images/knight_white.svg</file>
+        <file>Images/pawn_black.svg</file>
+        <file>Images/pawn_white.svg</file>
+        <file>Images/queen_black.svg</file>
+        <file>Images/queen_white.svg</file>
+        <file>Images/rook_black.svg</file>
+        <file>Images/rook_white.svg</file>
+        <file>Images/confetti.svg</file>
+        <file>Images/DuosBoard.png</file>
+        <file>Images/DuosScreen.png</file>
+        <file>Images/EtudesBoard.png</file>
+        <file>Images/EtudesScreen.png</file>
+        <file>Images/EtudesScreenStalemate.png</file>
+        <file>Images/logo.ico</file>
+        <file>Images/logo.png</file>
+        <file>sounds/background.mp3</file>
+        <file>sounds/buttonClick.wav</file>
+        <file>sounds/buttonHover.mp3</file>
+        <file>sounds/buttonHover.wav</file>
+        <file>Images/chessDraw.png</file>
+    </qresource>
+</RCC>
